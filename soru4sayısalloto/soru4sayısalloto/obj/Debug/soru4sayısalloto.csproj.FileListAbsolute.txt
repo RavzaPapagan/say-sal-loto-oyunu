@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\soru4sayısalloto\soru4sayısalloto\bin\Debug\soru4sayısalloto.exe.config
+C:\Users\hp\Desktop\soru4sayısalloto\soru4sayısalloto\obj\Debug\soru4sayısalloto.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\soru4sayısalloto\soru4sayısalloto\obj\Debug\soru4sayısalloto.Form1.resources
+C:\Users\hp\Desktop\soru4sayısalloto\soru4sayısalloto\obj\Debug\soru4sayısalloto.Properties.Resources.resources
+C:\Users\hp\Desktop\soru4sayısalloto\soru4sayısalloto\obj\Debug\soru4sayısalloto.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\soru4sayısalloto\soru4sayısalloto\bin\Debug\soru4sayısalloto.exe
+C:\Users\hp\Desktop\soru4sayısalloto\soru4sayısalloto\bin\Debug\soru4sayısalloto.pdb
+C:\Users\hp\Desktop\soru4sayısalloto\soru4sayısalloto\obj\Debug\soru4sayısalloto.exe
+C:\Users\hp\Desktop\soru4sayısalloto\soru4sayısalloto\obj\Debug\soru4sayısalloto.pdb
